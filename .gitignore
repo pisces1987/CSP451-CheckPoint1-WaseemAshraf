@@ -1,0 +1,21 @@
+Windows specific
+
+Thumbs.db
+Desktop.ini
+
+IDEs/Editors
+
+.vscode/
+.idea/
+*.swp
+
+Logs
+
+.log
+npm-debug.log
+
+Build/Deps (Generic)
+
+node_modules/
+dist/
+build/
